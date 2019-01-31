@@ -9,11 +9,11 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wipro.challenge.webcrawler</groupId>
-	<artifactId>simple-webcrawler-challenge</artifactId>
+	<groupId>com.wipro.challenge.crawler</groupId>
+	<artifactId>simple-crawler-challenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>simple-web-crawler</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Simple web crawler</description>
 
 	<properties>
 		<java.version>1.8</java.version>
