@@ -63,3 +63,5 @@ See /src/test/samples
 # Cloud running instance
 It will follow shortly on GCloud
 
+http://35.246.61.13:10002/crawl
+
