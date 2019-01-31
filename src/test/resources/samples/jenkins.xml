@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemap>
+	<url>
+		<loc>http://35.177.112.78:8080/login</loc>
+	</url>
+	<url>
+		<loc>https://jenkins.io/</loc>
+	</url>
+	<url>
+		<loc>https://jenkins.io/redirect/search-box</loc>
+	</url>
+	<url>
+		<loc>http://35.177.112.78:8080/loginhttp://35.177.112.78:8080/login
+		</loc>
+	</url>
+	<image>
+		<loc>/static/6f1485df/images/headshot.png</loc>
+	</image>
+	<image>
+		<loc>/static/6f1485df/images/title.png</loc>
+	</image>
+	<image>
+		<loc>/static/6f1485df/images/16x16/help.png</loc>
+	</image>
+</sitemap>
